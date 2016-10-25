@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Bob/Desktop/maven/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Desktop/maven/cucumber/mockito-all-1.9.1-20110911.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Desktop/maven/cucumber/cucumber-reporting-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Desktop/maven/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Desktop/maven/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Desktop/maven/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Desktop/maven/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Downloads/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Downloads/jchronic-0.2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Downloads/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/Bob/Downloads/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/Bob/Downloads/gherkin-2.12.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
