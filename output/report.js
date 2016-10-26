@@ -170,7 +170,7 @@ formatter.match({
   "location": "AtitudeTest.ln(String)"
 });
 formatter.result({
-  "duration": 161547380,
+  "duration": 170640419,
   "status": "passed"
 });
 formatter.match({
@@ -183,7 +183,7 @@ formatter.match({
   "location": "AtitudeTest.dImeet(String)"
 });
 formatter.result({
-  "duration": 83105,
+  "duration": 125608,
   "status": "passed"
 });
 formatter.match({
@@ -196,7 +196,7 @@ formatter.match({
   "location": "AtitudeTest.gre(String)"
 });
 formatter.result({
-  "duration": 246703,
+  "duration": 97989,
   "status": "passed"
 });
 formatter.match({
@@ -209,7 +209,7 @@ formatter.match({
   "location": "AtitudeTest.ln(String)"
 });
 formatter.result({
-  "duration": 71771,
+  "duration": 52769,
   "status": "passed"
 });
 formatter.match({
@@ -222,7 +222,7 @@ formatter.match({
   "location": "AtitudeTest.dImeet(String)"
 });
 formatter.result({
-  "duration": 676200,
+  "duration": 80885,
   "status": "passed"
 });
 formatter.match({
@@ -235,7 +235,7 @@ formatter.match({
   "location": "AtitudeTest.gre(String)"
 });
 formatter.result({
-  "duration": 190139,
+  "duration": 1361820,
   "status": "passed"
 });
 formatter.match({
@@ -248,7 +248,7 @@ formatter.match({
   "location": "AtitudeTest.we_work_in(String)"
 });
 formatter.result({
-  "duration": 197245,
+  "duration": 130311,
   "status": "passed"
 });
 formatter.match({});
@@ -339,7 +339,7 @@ formatter.match({
   "location": "AtitudeTest.ln(String)"
 });
 formatter.result({
-  "duration": 142167,
+  "duration": 326126,
   "status": "passed"
 });
 formatter.match({
@@ -352,7 +352,7 @@ formatter.match({
   "location": "AtitudeTest.dImeet(String)"
 });
 formatter.result({
-  "duration": 97893,
+  "duration": 83995,
   "status": "passed"
 });
 formatter.match({
@@ -365,7 +365,7 @@ formatter.match({
   "location": "AtitudeTest.gre(String)"
 });
 formatter.result({
-  "duration": 108906,
+  "duration": 540946,
   "status": "passed"
 });
 formatter.match({
@@ -378,7 +378,7 @@ formatter.match({
   "location": "AtitudeTest.ln(String)"
 });
 formatter.result({
-  "duration": 66943,
+  "duration": 61858,
   "status": "passed"
 });
 formatter.match({
@@ -391,7 +391,7 @@ formatter.match({
   "location": "AtitudeTest.dImeet(String)"
 });
 formatter.result({
-  "duration": 305577,
+  "duration": 88575,
   "status": "passed"
 });
 formatter.match({
@@ -404,7 +404,7 @@ formatter.match({
   "location": "AtitudeTest.gre(String)"
 });
 formatter.result({
-  "duration": 112729,
+  "duration": 81999,
   "status": "passed"
 });
 formatter.match({
@@ -417,7 +417,7 @@ formatter.match({
   "location": "AtitudeTest.we_work_in(String)"
 });
 formatter.result({
-  "duration": 118520,
+  "duration": 136549,
   "status": "passed"
 });
 formatter.match({});
